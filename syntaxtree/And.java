@@ -25,7 +25,6 @@
  *
  */
 
-
 package syntaxtree;
 import visitor.Visitor;
 import visitor.TypeVisitor;
